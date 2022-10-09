@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bossreact-yuvraj
 - 👀 I’m interested in React js Development and Machine Learning
 - 🌱 I’m currently learning React JS
-- 💞️ I’m looking to collaborate on Python
+- 💞️ I’m looking to collaborate on Full Stack Developement
 - 📫 How to reach me yuvrajsinghrathore.webdev@gmail.com
 
 <!---
